@@ -4,8 +4,7 @@ function main(numOne, numTwo){
     var numTwo;
     var product;
     product = numOne * numTwo;
-   // product = product.toPrecision(2);
-    
+
     // only change code above this line
     return product;
     }
